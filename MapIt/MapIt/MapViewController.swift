@@ -32,9 +32,7 @@ class MapViewController: UIViewController {
         
     }
     
-    func initAnnotations(){
-        
-    }
+    
     func loadAnnotationData(annotations: [[Double]], titles: [[String]]){
         
         let latitude = 0
